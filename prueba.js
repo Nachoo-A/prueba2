@@ -10,12 +10,12 @@ import {
 } from "https://www.gstatic.com/firebasejs/10.12.2/firebase-firestore.js";
 
 const firebaseConfig = {
-  apiKey: "TU_API_KEY",
-  authDomain: "TU_AUTH",
-  projectId: "TU_PROJECT_ID",
-  storageBucket: "TU_BUCKET",
-  messagingSenderId: "TU_SENDER",
-  appId: "TU_APP_ID"
+  apiKey: "AIzaSyAVNTrlvWQ0rYpvyp9Xr0S-887rr_KblbQ",
+  authDomain: "prueba-ef20a.firebaseapp.com",
+  projectId: "prueba-ef20a",
+  storageBucket: "prueba-ef20a.firebasestorage.app",
+  messagingSenderId: "57917606453",
+  appId: "1:57917606453:web:d228806c1853b4171e7f7c"
 };
 
 const app = initializeApp(firebaseConfig);
